@@ -101,7 +101,7 @@ header {
     justify-content: center;
     flex-flow: column;
     text-align: center;
-    border-right: solid 1px #0B3948;
+    border-right: solid 1px lightgray;
 }
 header .user img {
     height: 17rem;
@@ -317,7 +317,6 @@ header .navbar ul li a:hover {
 
 .contact .row {
     display: flex;
-    
     justify-content: center;
     flex-wrap: wrap;
 }
