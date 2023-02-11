@@ -20,6 +20,9 @@
     background: var(--color);
     color: white;
 }
+li a .fas{
+    padding-right: 2rem;
+}
 html {
     font-size: 62.5%;
     overflow-x: hidden;
