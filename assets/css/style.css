@@ -198,12 +198,14 @@ header .navbar ul li a:hover {
     flex: 1 1 48rem;
     padding: 2rem 1rem;
     padding-left: 6rem;
+    
 }
 .about .row .info h3 {
     font-size: 2rem;
     color: var(--color);
     font-weight: bold;
     padding: 1rem 0;
+    
 }
 .about .row .info h3 span {
     color: #E59500;
@@ -315,7 +317,7 @@ header .navbar ul li a:hover {
 
 .contact .row {
     display: flex;
-    align-items: center;
+    
     justify-content: center;
     flex-wrap: wrap;
 }
